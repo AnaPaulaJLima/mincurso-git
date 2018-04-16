@@ -7,4 +7,3 @@ nome = "Paula"
 
 print("O nome é : ")
 print (nome)
-print("Oi")
